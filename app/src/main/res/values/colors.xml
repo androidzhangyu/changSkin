@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="skin_item_color">#ff000000</color>
+    <color name="skin_menu_item_color">#ffffffff</color>
+
+    <color name="skin_item_color_red">#FFD40E0E</color>
+    <color name="skin_menu_item_color_red">#FFD40E0E</color>
+
+    <color name="skin_item_color_green">#FF0D83FA</color>
+    <color name="skin_menu_item_color_green">#FF0D83FA</color>
+</resources>
